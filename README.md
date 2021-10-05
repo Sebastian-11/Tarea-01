@@ -1,0 +1,1 @@
+Aprendi en los videos y textos adjuntos al modulo comandos y datos báscicos acerca de la consola de comandos y en general de Linux, también aprendi comandos y como manejar y controlar la consola de comandos de Git, dandonos así las herramientas para entregar la tarea propuesta por el curso... finalmente se nos exponen datos y palabras reservadas esenciales para Markdown.
